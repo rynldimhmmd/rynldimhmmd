@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Reynaldi Muhammad
+### Hi! 👋 I'm Rey
 
 📢 I speak ID / EN.</br>
 🌱 I'm currently learning HTML, CSS, PHP, & Laravel.</br>
